@@ -59,9 +59,9 @@ Enter the number of decimal places for e (0-10000): 50
 ```text
 find-e-to-the-nth-digit/
 ├── README.md
-├── v1_basic.py
-├── v2_input_validation.py
-└── v3_high_precision.py
+├── v1(basic).py
+├── v2(input_validation).py
+└── v3(high_precision).py
 ```
 
 ## Requirements
